@@ -4,9 +4,9 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Answer goes here
+>Sam Seidner
 
 
 ### What is your favorite color?
 
-> Answer goes here
+>0x43abd2
